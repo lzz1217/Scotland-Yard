@@ -1,0 +1,7 @@
+echo "# Scotland-Yard" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lzz1217/Scotland-Yard.git
+git push -u origin master
+
